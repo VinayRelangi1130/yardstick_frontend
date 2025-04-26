@@ -1,0 +1,12 @@
+.ull {
+    list-style-type: none;
+    width: 85%;
+  }
+  
+  .li {
+    display: flex;
+      flex-direction: row;
+      padding : 1%;
+      align-items: center;
+      justify-content: space-between;
+  }
